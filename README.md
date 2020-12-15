@@ -1,33 +1,3 @@
-<p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Starter Portfolio: Cara
-</h1>
-
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the 0BSD license." />
-  </a>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
-</p>
-
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
-
-[**Demo Website**](https://cara.lekoarts.de)
-
-Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
-
-## ✨ Features
-
-- Theme UI-based theming
-- react-spring parallax effect
-- CSS Animations on Shapes
 
 ## 🚀 Getting Started
 
@@ -50,7 +20,7 @@ cd project-name
 gatsby develop
 ```
 
-3. **Open the code and start customizing!**
+3. **Open the code and start**
 
 Your site is now running at `http://localhost:8000`!
 
@@ -64,7 +34,7 @@ This starter creates a new Gatsby site that installs and configures the theme [`
 
 Have a look at the theme's README and files to see what options are available and how you can shadow the various components including Theme UI. Generally speaking you will want to place your files into `src/@lekoarts/gatsby-theme-cara/` to shadow/override files. The Theme UI config can be configured by shadowing its files in `src/gatsby-plugin-theme-ui/`.
 
-### Changing content
+### content
 
 The content of this project is defined in four `.mdx` files inside the theme's `sections` folder. You can override the files `intro.mdx`, `projects.mdx`, `about.mdx` and `contact.mdx`. This starter has overriden the `intro.mdx` file as an example. Place the other files in the same `src/@lekoarts/gatsby-theme-cara/sections/` folder.
 
@@ -78,13 +48,10 @@ This project is my entry to Adobe's #ChallengeYourPerspective contest.
 </ProjectCard>
 ```
 
-### Change your `static` folder
+###  `static` folder
 
 The `static` folder contains the icons, social media images and robots.txt. Don't forget to change these files, too!
 
-## 🤔 Questions or problems?
-
-Please open up an issue on the main repository: [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes). Thanks!
 
 ## 🎓 Learning Gatsby
 
@@ -100,8 +67,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
 
-## 🌟 Supporting me
-
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
-
-Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
